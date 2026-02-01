@@ -327,7 +327,7 @@ a {
     justify-content: center;
     align-items: center;
     min-height: 400px;
-    background: rgba(0, 0, 0, 0.2);
+    background: url('/assets/images/thenella.png') center/cover no-repeat;
 }
 
 .img-placeholder {
